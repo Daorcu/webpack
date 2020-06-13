@@ -13,6 +13,7 @@ const MinifyPlugin = require("babel-minify-webpack-plugin");
 
 module.exports = {
     mode: 'production',
+    devtool: 'inline-source-map',
     optimization: {
         minimizer: [new OptimzeCssAssensPlugin()]
     },
