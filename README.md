@@ -1,15 +1,14 @@
-# Cascarón de Webpack
+# Webpack Starter
 
-Este proyecto contiene la configuración necesaria para aplicaciones que trabajen con Webpack
+Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 
-### Nota:
-Para reconstruir los módulos de Node, ejecutar el siguiente comando 
-
+### Notas:
+Recuerden reconstruir los módulos de Node
 ```
 npm install
 ```
-Y para construir el build, ejecutar el comando:
 
+Y para construir el build, recueren:
 ```
 npm run build
 ```
